@@ -1,0 +1,1 @@
+print("Olá! O preditor de sentimentos está pronto para começar.")
